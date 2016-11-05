@@ -128,15 +128,16 @@ function ()
 
             if ready( 'keg_smash' )
             then rec( 'keg_smash' ) end
-
-            if ready( 'chi_burst' )
+            
+            if talented.chi_burst 
+            and ready( 'chi_burst' )
             then rec( 'chi_burst' ) end
 
             if ready( 'breath_of_fire' )
             then rec( 'breath_of_fire' ) end
 
             if talented.rushing_jade_wind
-                and ready( 'rushing_jade_wind' )
+            and ready( 'rushing_jade_wind' )
             then rec( 'rushing_jade_wind') end
         end
 
