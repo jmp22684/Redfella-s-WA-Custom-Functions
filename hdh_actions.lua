@@ -120,7 +120,7 @@ aura_env.abilities = {
     chaos_blades = 211048,
     netherwalk = 196555,
     fel_eruption = 211881,
-    felblade = 213241,
+    felblade = 232893,
     chaos_nova = 179057
 }
 
@@ -150,7 +150,7 @@ aura_env.cooldowns = {
   chaos_blades = 211048,
   netherwalk = 196555,
   fel_eruption = 211881,
-  felblade = 213241,
+  felblade = 232893,
   chaos_nova = 179057
 }
 
